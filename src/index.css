@@ -95,13 +95,14 @@ body {
 }
 .navbar {
   height: 80px;
-  background-color: rgb(185, 167, 142);
+  background-color: rgb(61, 60, 57);
   font-weight: bold;
   position: fixed !important;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 100;
+  color: white;
 }
 .user {
   font-size: 30px;
